@@ -1,0 +1,9 @@
+# Ignore build artifacts and node modules
+node_modules
+*.log
+dist
+coverage
+.env
+.DS_Store
+.vscode
+/build
